@@ -9,7 +9,7 @@
 <br>
 About Me:
 
-- <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25" height="25"/> I am studying in The Bachelor of Science with Honours in Computing Science at Singapore Institute of Technology (SIT).<br>
+- <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25" height="25"/> I am studying in The Bachelor of Science with Honours in Computing Science at University of Glasgow!.<br>
 
 - <img src="https://slackmojis.com/emojis/8270-blob-dance/download" width="25" height="25"/> Here are some of my programming languages experience:<br><br>
 
