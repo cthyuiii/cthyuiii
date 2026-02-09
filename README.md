@@ -2,7 +2,7 @@
 <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="100" height="100"/> <br><br>
   </p>
   
-### Welcome to Macc's Github page!! Your Visitor Number: ![Visitor Count](https://profile-counter.glitch.me/cthyuiii/count.svg)
+### Welcome to Macc's Github page!!
 
 
 
