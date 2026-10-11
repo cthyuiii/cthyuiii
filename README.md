@@ -2,10 +2,10 @@
 <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="100" height="100"/> <br><br>
   </p>
   
-### Welcome to Macc's Github page!!
+### Welcome to My Github page!!
 
 
-
+<!--
 <br>
 About Me:
 
@@ -17,7 +17,7 @@ About Me:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c" width="60" height="60"/> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="c" width="55" height="60"/>
 <br>
-
+-->
 - <img src="https://slackmojis.com/emojis/9949-blob_help/download" width="25" height="25"/> Feel free to give any feedback or raise any issues! <br>
 
 Github Statistics <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="25" height="25"/> <br><br>
