@@ -26,6 +26,8 @@ Github Statistics <img src="https://slackmojis.com/emojis/4594-blob-wave/downloa
   <a href="https://github.com/cthyuiii"><img src="https://github-readme-stats.vercel.app/api?username=cthyuiii&hide_border=true&show_icons=true" alt="cthyuiii's github stats"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=cthyuiii)
+
 <!---
 cthyuiii/cthyuiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
